@@ -16,14 +16,14 @@ body {
     position: relative;
     
 }
-#puuk {
+#headline {
 
 text-align: center;
 border-radius: 1px;
 opacity: 0.9;
 color: #118CEA;
 margin-bottom: 20px;
-font-size: 60px;
+font-size: 50px;
 font-weight: bold;
 margin:auto;
 font-family: Serif;
@@ -116,6 +116,3 @@ content: none;
 #firstp {
     font-size: 20px;
 }
-
-
-</style>
