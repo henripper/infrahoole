@@ -1,0 +1,121 @@
+<!-- Styles -->
+
+<link rel="stylesheet" href="http://static.tumblr.com/f1whv92/Mp9l6ewcg/reset.css" />
+<style type="text/css">
+
+
+/*----- GENERAL -----*/
+
+    *  {
+font-family: "Corbel" sans-serif;
+}
+body {
+    background-image: url('');
+    background-color: #ecf0f1; 
+    background-repeat: repeat;
+    position: relative;
+    
+}
+#puuk {
+
+text-align: center;
+border-radius: 1px;
+opacity: 0.9;
+color: #118CEA;
+margin-bottom: 20px;
+font-size: 60px;
+font-weight: bold;
+margin:auto;
+font-family: Serif;
+
+
+
+}
+#navbar ul {
+margin: 0;
+padding: 0;
+}
+#navbar ul li {
+list-style-type: none;
+display: inline;
+}
+#navbar li:before {
+content: "|";
+margin: 20px;
+}
+#navbar li:first-child:before {
+content: none;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+#navbar {
+    margin-top: 20px;
+    width: 700px;
+    height: 30px;
+    background-color: white;
+    opacity: 0.8;
+    border-radius: 4px;
+    font-size: 15px;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+    margin-bottom: 45px;
+    padding: 10px;
+    text-decoration: none;
+    box-shadow: 10px 10px 5px #888888;
+    background-image: url('http://i.imgur.com/Bie8S15.jpg');
+}
+#body {
+    margin:auto;
+    width: 800px;
+    background-color: #3498db;
+    opacity: 0.8;
+    text-align: justify;
+    padding: 15px;
+    margin-bottom: 40px;
+    
+}
+#body p:before {
+    margin-left: 10px;
+}
+#body ul {
+ list-style-type:square;
+ margin: 10px;
+ line-height: 20px;
+}
+#footer {
+    margin-top: 20px;
+    opacity:0.8;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: 900;
+    width: 1120px;
+    margin: auto;
+    
+}
+#footer ul {
+margin: 0;
+padding: 0;
+}
+#footer ul li {
+list-style-type: none;
+display: inline;
+}
+#footer li:before {
+content: "|";
+margin: 20px;
+}
+#footer li:first-child:before {
+content: none;
+}
+#PUUGIDLIST {
+    list-style: none;
+}
+#firstp {
+    font-size: 20px;
+}
+
+
+</style>
